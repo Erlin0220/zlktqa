@@ -1,0 +1,22 @@
+*{
+    font-family:"微软雅黑","Microsoft YaHei",Helvetica,"Helvetica Neue",Tahoma,Arial,sans-serif;
+}
+.logo{
+    margin-top: -7px;
+    width: 100px;
+}
+.page-title{
+   text-align: center;
+}
+body{
+    background:#f3f3f3;
+}
+.main{
+    background-color: #fcfcfc;
+    width: 730px;
+    margin: 0 auto;
+    padding: 15px;
+}
+.main button{
+    margin-top:15px;
+}

@@ -1,0 +1,35 @@
+.main ul{
+    padding-left: 0;
+    list-style: none;
+}
+.main ul li{
+    overflow: hidden;
+    padding: 12px 0;
+    border-bottom: 1px solid #eee;
+}
+.avatar-group{
+    width: 45px;
+    height: 100%;
+    float: left;
+}
+.avatar-group .avatar{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+.question-gruop{
+    float: left;
+    width: 640px;
+    margin-left: 10px;
+}
+.question-title a{
+    color:#259;
+    font-weight: bold;
+    font-size:1.1em;
+}
+.question-info{
+    text-align: right;
+}
+.question-info .question-time{
+    margin-left: 20px;
+}
